@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumaIterativa-C++", "SumaIterativa-C++\SumaIterativa-C++.vcxproj", "{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Debug|x64.ActiveCfg = Debug|x64
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Debug|x64.Build.0 = Debug|x64
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Debug|x86.Build.0 = Debug|Win32
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Release|x64.ActiveCfg = Release|x64
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Release|x64.Build.0 = Release|x64
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Release|x86.ActiveCfg = Release|Win32
+		{B56FA69A-3C52-4120-9EE0-1EF1A6D00EDA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDE1A57-6CE4-4FDD-8C8A-796F48C93B01}
+	EndGlobalSection
+EndGlobal
